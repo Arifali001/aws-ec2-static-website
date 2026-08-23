@@ -95,3 +95,5 @@ B.Tech Computer Science Engineering
 ---
 
 ⭐ If you find this project useful, feel free to explore the repository.
+<img width="1657" height="972" alt="Screenshot 2026-08-23 085644" src="https://github.com/user-attachments/assets/be8b93cc-da2b-4dc6-a8ca-d49eab337869" />
+
